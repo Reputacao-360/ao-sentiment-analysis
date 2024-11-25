@@ -5,7 +5,7 @@
 
 ---
 
-```markdown
+
 # Biblioteca de Análise de Sentimento para Português e Idiomas Regionais 🌍
 
 Uma biblioteca open source projetada para análises de sentimento e insights contextuais em português (incluindo variações regionais) e adaptável para mercados locais. Ideal para empresas, pesquisadores e desenvolvedores.
@@ -89,5 +89,4 @@ Para dúvidas ou suporte:
 - **E-mail**: geral@reputacao360.online
 - **Site**: [R360](https://reputacao360.online)
 ```
-
----
+ 
