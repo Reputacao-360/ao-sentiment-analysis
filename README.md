@@ -15,7 +15,7 @@ Uma biblioteca open source projetada para análises de sentimento e insights con
 ## 🚀 Funcionalidades
 - **Análise de Sentimento**: Classificação em positivo, negativo ou neutro.
 - **Tópicos e Tendências**: Identificação de tópicos recorrentes em textos.
-- **Personalização**: Treine modelos personalizados para setores ou domínios específicos.
+- **Personalização**: Treinar modelos personalizados para setores ou domínios específicos.
 - **Compatibilidade com APIs**: Fácil integração com sistemas existentes.
 - **Privacidade**: Processamento local, garantindo conformidade com LGPD.
 
